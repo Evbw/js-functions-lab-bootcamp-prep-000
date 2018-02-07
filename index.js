@@ -3,14 +3,14 @@ function happyHolidays(kheppykholidays) {
   return ('Happy holidays!')
 }
 
-function happyHolidaysTo(firstName) {
-  return ("'Happy holidays, ${firstNamename}'")
+function happyHolidaysTo(name) {
+  return ("'Happy holidays, ${name}'")
 }
 
-function happyHolidayTo(kheppykholiday) {
+function happyHolidayTo(holiday) {
   return ("'Happy ${holiday}, ${name}'")
 }
 
-function holidayCountdown(daysCount, kholidaycountdown) {
+function holidayCountdown(days, holiday) {
   return ("'It's ${days} days until ${holiday}!'")
 }
